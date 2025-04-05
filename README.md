@@ -1,75 +1,70 @@
-# 🖋️ Type-O-Meter
+# Getting Started with Create React App
 
-🔗 **Live Demo:** [Click here to try it out on Vercel](https://your-vercel-link.vercel.app)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Type-O-Meter** is a web-based typing speed and accuracy tester built using **React.js**, **HTML**, and **CSS**. It allows users to test their typing skills by selecting a time duration and difficulty level. The app provides real-time statistics including WPM (Words Per Minute), accuracy percentage, and total words submitted.
+## Available Scripts
 
-This project was developed as part of my **Web Programming** course.
+In the project directory, you can run:
 
----
+### `npm start`
 
-## 🚀 Tech Stack
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **React.js** – JavaScript library for building user interfaces  
-- **HTML** – Markup language for structuring the content  
-- **CSS** – Styling the layout and visuals of the app  
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
----
+### `npm test`
 
-## 🛠️ How to Clone and Run This Project
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-You can run this project locally by following these steps:
+### `npm run build`
 
-### 1. Clone the repository
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```bash
-git clone https://github.com/kousthub-eswar/type-o-meter
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### 2. Navigate into the project directory
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```bash
-cd type-o-meter
-```
+### `npm run eject`
 
-### 3. Install dependencies
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Make sure **Node.js** and **npm** are installed on your machine. Then run:
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```bash
-npm install
-```
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### 4. Start the development server
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```bash
-npm start
-```
+## Learn More
 
-The application will open in your default browser at:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```
-http://localhost:3000
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
----
+### Code Splitting
 
-## 📸 Screenshots
-Landing Page
-![Screenshot](./screenshots/Landing Page.png)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Test Page
-![Screenshot](./screenshots/Test Page.png)
+### Analyzing the Bundle Size
 
-Result Page
-![Screenshot](./screenshots/Result Page.png)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
----
+### Making a Progressive Web App
 
-## 📄 License
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-This project is open-source and available for educational and personal use.
+### Advanced Configuration
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-> Made with ❤️ by Kousthub & Tejas
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
