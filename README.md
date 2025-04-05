@@ -1,6 +1,6 @@
 # 🖋️ Type-O-Meter
 
-🔗 **Live Demo:** [Click here](typeometer-kousthub-tejas.vercel.app)  to see Live Demo of Our Project
+🔗 **Live Demo:** [Click here](https://typeometer-kousthub-tejas.vercel.app)  to see Live Demo of Our Project
 
 **Type-O-Meter** is a web-based typing speed and accuracy tester built using **React.js**, **HTML**, and **CSS**. It allows users to test their typing skills by selecting a time duration and difficulty level. The app provides real-time statistics including WPM (Words Per Minute), accuracy percentage, and total words submitted.
 
